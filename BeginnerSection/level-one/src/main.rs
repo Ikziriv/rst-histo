@@ -61,11 +61,11 @@ fn main() {
         Up, Down, Left, Right
     }
 
-    let player_direction::Direction = Direction::Up;
-    match player_direction {
-        Direction::Up => println!("Heading Up!"),
-        Direction::Down => println!("Heading Down!"),
-        Direction::Left => println!("Heading Left!"),
-        Direction::Right => println!("Heading Right!"),
-    }
+    // let player_direction::Direction = Direction::Up;
+    // match player_direction {
+    //     Direction::Up => println!("Heading Up!"),
+    //     Direction::Down => println!("Heading Down!"),
+    //     Direction::Left => println!("Heading Left!"),
+    //     Direction::Right => println!("Heading Right!"),
+    // }
 }
